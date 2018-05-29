@@ -99,7 +99,7 @@ analytics:
 
 
 # Site Author
-  author           :
+author :
   name             : "Chavi"
   avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "Chavi's Blog"
