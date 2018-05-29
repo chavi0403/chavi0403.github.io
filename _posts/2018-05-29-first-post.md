@@ -15,3 +15,5 @@ System.out.println("Hello github.io!!");
 
 # 3. 이미지 테스트
 ![구글에서 퍼온 임의의 이미지](https://hipnewjersey.com/wp-content/uploads/2017/03/635931454283260107208050452_spring-02-672x372.jpg)
+
+*임의의 이미지 입니다.
