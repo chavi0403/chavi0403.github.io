@@ -99,9 +99,9 @@ analytics:
 
 
 # Site Author
-author:
+  author           :
   name             : "Chavi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Chavi's Blog"
   location         : "South Korea"
   email            : "opiu0403@gmail.com"
