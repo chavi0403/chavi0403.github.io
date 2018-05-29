@@ -8,9 +8,9 @@ categories: jekyll test init
 
 
 # 2. 소스코드 테스트
-​```java
+```java
 System.out.println("Hello github.io!!");
-​```
+```
 > 평범하게 잘 올라간다
 
 # 3. 이미지 테스트
