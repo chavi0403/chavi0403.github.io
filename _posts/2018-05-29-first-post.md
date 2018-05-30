@@ -1,7 +1,7 @@
 ---
 title: "첫 포스트 테스트!"
 date: 2018-05-29 13:56:00 -0400
-categories: jekyll test init
+categories:
 ---
 # 1. 첫 포스팅 테스트
 > 2018년 05월 29일 오후 1:57분
