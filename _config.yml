@@ -19,7 +19,7 @@ locale                   : "kr-KR"
 title                    : "Chavi"
 title_separator          : "-"
 name                     : "Chavi"
-description              : "Just Diary"
+description              : "Chavi's developing Diary"
 url                      : "https://chavi0403.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ author :
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Chavi's Diary"
   location         : "South Korea"
-  email            : "opiu0403@gmail.com"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
